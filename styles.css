@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.form-group{
+    width:100vw;
+    height:100vh;
+}
+.highlight{
+    color:#0D6EFD;
+}
+#submit{
+    width:100px;
+    background-color:#0D6EFD;
+    color:white;
+}
+.tbody{
+    background-colo:#E7E7E7;
+}
